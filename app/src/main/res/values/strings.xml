@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FrontendProject</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="try_now">Try Now</string>
+
+
+    <string name="slide_1_title">All Your Classes Organised</string>
+    <string name="slide_1_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+
+    <string name="slide_2_title">Take Test On The Go </string>
+    <string name="slide_2_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+
+    <string name="slide_3_title">Analyse Performance</string>
+    <string name="slide_3_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_main_page">MainPageActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fee_management">FeeManagementActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+</resources>

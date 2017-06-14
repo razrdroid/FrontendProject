@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="countries">
+        <item>first</item>
+        <item>second</item>
+        <item>third</item>
+        <item>fourth</item>
+        <item>fifth</item>
+        <item>first</item>
+        <item>second</item>
+        <item>third</item>
+        <item>fourth</item>
+        <item>fifth</item>
+    </array>
+    <array name="names">
+        <item>india</item>
+        <item>australia</item>
+        <item>america</item>
+        <item>pakistan</item>
+        <item>bhutan</item>
+        <item>china</item>
+        <item>russia</item>
+        <item>france</item>
+        <item>london</item>
+        <item>bangladesh</item>
+    </array>
+</resources>
